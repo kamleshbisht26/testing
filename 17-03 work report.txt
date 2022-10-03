@@ -1,0 +1,27 @@
+fragment past broadcast click on item crash solve (crash point ius size and index problem)
+
+added like view count on streaming page also
+
+added live view count api from antmedia in upcoming broadcast adapter
+
+added time  out limit in retrofit mrthod
+
+
+1-check vierw count null
+
+2-create new broadcast back home page check show two same 
+
+
+123456789
+
+
+error: function(data) {
+                toastr.success(data.message, 'Succes');
+                window.location.href = '/lms/install/database';
+                form.find('.submit').show();
+                form.find('.submitting').hide();
+                $('.preloader').fadeOut();
+                // ajax_error(data);
+                // form.find('.submit').show();
+                // form.find('.submitting').hide();
+                // $('.preloader').fadeOut();
